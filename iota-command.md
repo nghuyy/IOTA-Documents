@@ -1,4 +1,4 @@
-## VMBox ##
+## IOTA UI Command ##
 Link: https://gist.github.com/nghuyy/f7fbb5c788f9944913386f706278a46b
 
 + Ngoại lệ:
