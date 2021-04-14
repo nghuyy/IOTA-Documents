@@ -51,6 +51,6 @@ out = ":input.desc./Nhập gì đó vào đây/"
 ```
 
 ```javascript
-//https://iota.vsys.vn/#@testinput
+//https://iota.vsys.vn/#@testinputicon
 out = ":input.icon.ic-search";
 ```
