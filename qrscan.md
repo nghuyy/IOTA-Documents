@@ -4,3 +4,7 @@ Sử dụng lệnh:
   :qrcode
 ```
 https://dev.iotabot.app/#@qrscan
+
+> 
+> 
+![](img/1.png)

@@ -1,3 +1,3 @@
 # IOTA Documents Public #
 
- + [Quét qr](/qrscan.md)
+ + [Quét qr](qrscan.md)
