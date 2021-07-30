@@ -1,5 +1,4 @@
 ## IOTA UI Command ##
-https://github.com/VSYS-DevTeam/IOTA-Documents/blob/master/iota-command.md
 
 + Ngoại lệ:
 ```text
@@ -13,6 +12,7 @@ https://github.com/VSYS-DevTeam/IOTA-Documents/blob/master/iota-command.md
  
 ```text
 + Toolbar Icons:
+   
     Ẩn icon:
     :toolbar.icon.[1-6].ic-[hide]
     Đổi icon:
@@ -21,6 +21,8 @@ https://github.com/VSYS-DevTeam/IOTA-Documents/blob/master/iota-command.md
     :toolbar.icon.[1-6].iota-[nội dung sự kiện]
     Nút reload:
     :toolbar.icon.7.[hide/show] //ẩn hoặc hiện nút reload
+    
+    //Test: https://dev.iotabot.app/#@ex1Dropdown,init
     Menu mở rộng 1: 
     :toolbar.ex1./Nội dung toolbar/
     Menu con menu mở rộng 1
@@ -28,8 +30,6 @@ https://github.com/VSYS-DevTeam/IOTA-Documents/blob/master/iota-command.md
     khi user bấm menu sẽ nhận lại sự kiện: click.toolbar. mã menu 
     
 ```
-![](https://next.iotabot.app/index.php/s/wz5443jKEWs7FAq/download)
-
 Code Mẫu
 ```javascript
 //https://iota.vsys.vn/#@testvm
@@ -48,7 +48,7 @@ out = [":cls","Bạn đã chọn menu: " + IOTA.mess];
     Đổi button input icon
     :input.icon.[mã icon]
 ```
-![](https://next.iotabot.app/index.php/s/Wo95AKQ4Dtx3G9L/download)
+
 
 Code mẫu:
 ```javascript
