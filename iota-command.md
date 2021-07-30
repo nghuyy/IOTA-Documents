@@ -21,6 +21,12 @@ https://github.com/VSYS-DevTeam/IOTA-Documents/blob/master/iota-command.md
     :toolbar.icon.[1-6].iota-[nội dung sự kiện]
     Nút reload:
     :toolbar.icon.7.[hide/show] //ẩn hoặc hiện nút reload
+    Menu mở rộng 1: 
+    :toolbar.ex1./Nội dung toolbar/
+    Menu con menu mở rộng 1
+    :toolbar.ex1.[mã menu con]/Nội dung menu/
+    khi user bấm menu sẽ nhận lại sự kiện: click.toolbar. mã menu 
+    
 ```
 ![](https://next.iotabot.app/index.php/s/wz5443jKEWs7FAq/download)
 

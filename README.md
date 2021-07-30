@@ -8,3 +8,8 @@
 
 NodeJS:
  + [IOTA](core.md)
+
+Debug:
+
++ Add localstore: iota_debug = *
++ ![img.png](img/img.png)
