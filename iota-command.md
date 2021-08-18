@@ -12,7 +12,6 @@
  
 ```text
 + Toolbar Icons:
-   
     Ẩn icon:
     :toolbar.icon.[1-6].ic-[hide]
     Đổi icon:
@@ -22,14 +21,20 @@
     Nút reload:
     :toolbar.icon.7.[hide/show] //ẩn hoặc hiện nút reload
     
-    //Test: https://dev.iotabot.app/#@ex1Dropdown,init
-    Menu mở rộng 1: 
-    :toolbar.ex1./Nội dung toolbar/
-    Menu con menu mở rộng 1
-    :toolbar.ex1.[mã menu con]/Nội dung menu/
-    khi user bấm menu sẽ nhận lại sự kiện: click.toolbar. mã menu 
-    
 ```
+
+Menu mở rộng:
+``` text
+    Menu mở rộng 1: 
+    I101":toolbar.ex1./Nội dung toolbar/"
+    Chú ý: khi cập nhật menu chính, menu con sẽ bị xóa do đó cần phải gởi lệnh thêm lại
+    
+    Menu con menu mở rộng 1
+    I101":toolbar.ex1.[mã menu con]/Nội dung menu/"
+    
+    khi user bấm menu sẽ nhận lại sự kiện: click.toolbar. mã menu     
+```
+Demo: [https://dev.iotabot.app/#@ex1Dropdown,init]()
 
 Code Mẫu
 ```javascript
