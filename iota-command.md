@@ -34,7 +34,7 @@ Menu mở rộng:
     
     khi user bấm menu sẽ nhận lại sự kiện: click.toolbar. mã menu     
 ```
-Demo: [https://dev.iotabot.app/#@ex1Dropdown,init]()
+Demo: [Menu mở rộng](https://dev.iotabot.app/#@ex1Dropdown,init)
 
 Code Mẫu
 ```javascript
