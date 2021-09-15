@@ -59,10 +59,10 @@ out = [":cls","Bạn đã chọn menu: " + IOTA.mess];
 Code mẫu:
 ```javascript
 //https://iota.vsys.vn/#@testinput
-out = ":input.desc./Nhập gì đó vào đây/"
+I101":input.desc./Nhập gì đó vào đây/"
 ```
 
 ```javascript
 //https://iota.vsys.vn/#@testinputicon
-out = ":input.icon.ic-search";
+I101":input.icon.ic-search";
 ```
