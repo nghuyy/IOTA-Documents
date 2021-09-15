@@ -36,15 +36,7 @@ Menu mở rộng:
 ```
 Demo: [Menu mở rộng](https://dev.iotabot.app/#@ex1Dropdown,init)
 
-Code Mẫu
-```javascript
-//https://iota.vsys.vn/#@testvm
-if(IOTA.mess === "init" || IOTA.mess === ""){
-out= [":toolbar.icon.1.ic-arrow-left",":toolbar.icon.1.iota-icon-back",":toolbar.icon.2.ic-bars",":toolbar.icon.2.iota-icon-menu",":toolbar.icon.7.hide"]
-}else{
-out = [":cls","Bạn đã chọn menu: " + IOTA.mess];
-}
-```
+
 
 + Input:
 
