@@ -36,7 +36,15 @@ Menu mở rộng:
 ```
 Demo: [Menu mở rộng](https://dev.iotabot.app/#@ex1Dropdown,init)
 
-
+Code Mẫu
+```javascript
+//https://iota.vsys.vn/#@testvm
+if(IOTA.mess === "init" || IOTA.mess === ""){
+out= [":toolbar.icon.1.ic-arrow-left",":toolbar.icon.1.iota-icon-back",":toolbar.icon.2.ic-bars",":toolbar.icon.2.iota-icon-menu",":toolbar.icon.7.hide"]
+}else{
+out = [":cls","Bạn đã chọn menu: " + IOTA.mess];
+}
+```
 
 + Input:
 
@@ -51,10 +59,10 @@ Demo: [Menu mở rộng](https://dev.iotabot.app/#@ex1Dropdown,init)
 Code mẫu:
 ```javascript
 //https://iota.vsys.vn/#@testinput
-I101":input.desc./Nhập gì đó vào đây/"
+out = ":input.desc./Nhập gì đó vào đây/"
 ```
 
 ```javascript
 //https://iota.vsys.vn/#@testinputicon
-I101":input.icon.ic-search";
+out = ":input.icon.ic-search";
 ```
