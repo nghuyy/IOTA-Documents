@@ -10,7 +10,7 @@ Ví dụ:
 ```
     1. Lưu Local Store: I101":1,1,'Xin chào, anh bạn!'"
     2. Đọc Local Store: I101":2,1"
-    3. Xóa I101"3,1" Xóa dữ liệu lưu 1 và I101"3" Xóa hết local store
+    3. Xóa Local Store: I101"3,1" Xóa dữ liệu lưu 1 và I101"3" Xóa hết local store
 ```    
 Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số lệnh và ghi chú)     
 ```
