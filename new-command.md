@@ -25,3 +25,10 @@ Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số
     DEl_LOCAL_STORE: 3, //1[Vị trí lưu, nếu bỏ trống tất cả sẽ bị xóa] Xóa dữ liệu đã ghi
     NOTIFY: 8 //1[Nội dung] hoặc 1[Tiêu đề],2[Nội dung] Hiện thông báo
 ```
+Khác:
+```
+Xem nhanh mã lệnh từ Console F12 gõ window.IOTA enter
+Bật tắt Debug
+debug()
+
+```
