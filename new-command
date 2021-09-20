@@ -1,0 +1,9 @@
+    Cập nhật bảng lệnh mới theo bảng lệnh sau
+    ```
+    SET_LOCAL_STORE: 1, // Lưu local store
+    READ_LOCAL_STORE: 2, // Đọc local store
+    ```
+    với lệnh mới nội dung sẽ bắt đầu bằng : + Mã lệnh + Nội dung lệnh theo ghi chú ở trên
+    Ví dụ: 
+    1. Lưu Local Store: I101":1,1,'Xin chào, anh bạn!'"
+    2. Đọc Local Store: I101":2,1"
