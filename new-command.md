@@ -6,7 +6,7 @@ Chú ý:
  Các tham số có thể là số, hoặc chuỗi. Với dạng chuỗi, luôn phải nằm trong cặp dấu '' hoặc ""
  Nếu lệnh sau cấu trúc, trong cửa sổ F12 sẽ báo lỗi Parse: Unexpected token X in JSON at position 5,
  số 5 chính là vị trí lỗi của chuỗi lệnh (không tính dấu :)
- Từ nay các lệnh mới sẽ tuân theo quy tắc này, lệnh cũ sẽ được chuyển đổi dần. Trừ những lệnh the kiểu chuỗi JSON
+ Từ nay các lệnh mới sẽ tuân theo quy tắc này, lệnh cũ sẽ được chuyển đổi dần. Trừ những lệnh theo kiểu chuỗi JSON
 ```
 Ví dụ:  
 ```
