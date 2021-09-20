@@ -1,11 +1,12 @@
 ### Cập nhật bảng lệnh mới theo bảng lệnh sau
 
-Ví dụ:    
+Ví dụ:  
+```
     1. Lưu Local Store: I101":1,1,'Xin chào, anh bạn!'"
     2. Đọc Local Store: I101":2,1"
     3. Xóa I101"3,1" Xóa dữ liệu lưu 1 và I101"3" Xóa hết local store
-    
-     
+```    
+Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số lệnh và ghi chú)     
 ```
 SET_LOCAL_STORE: 1, // 1[Vị trí lưu],2[Nội dung] Lưu tạm dữ liệu trên trình duyệt, dữ liệu này là có thể bị sửa đổi và không bảo mật,
 // tuy nhiên không bị mất cho đến khi người dùng xóa thủ công
