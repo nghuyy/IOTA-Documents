@@ -1,4 +1,4 @@
-### Cập nhật bảng lệnh mới theo bảng lệnh sau
+### Cập nhật bảng lệnh mới
 
 Chú ý:
 ```
