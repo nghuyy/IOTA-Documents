@@ -1,4 +1,4 @@
-    Cập nhật bảng lệnh mới theo bảng lệnh sau
+    ##### Cập nhật bảng lệnh mới theo bảng lệnh sau
     
     ```
     SET_LOCAL_STORE: 1, // Lưu local store
