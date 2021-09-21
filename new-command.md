@@ -14,7 +14,8 @@ Ví dụ:
     2. Đọc Local Store: I101":2,1" hoặc I101":2,'key1'"
     3. Xóa Local Store: I101":3,1" Xóa dữ liệu lưu 1 và I101":3" Xóa hết local store
     4. Hộp thoại đăng nhập: I101":4,'ico-unlock-alt Để tiến hành thanh toán, Xin đăng nhập!'",
-    hiển thị hộp thoại yêu cầu đăng nhập với câu thông báo. Hoặc mặc định I101":4" 
+    hiển thị hộp thoại yêu cầu đăng nhập với câu thông báo. Hoặc mặc định I101":4"
+    [Test](https://dev.iotabot.app/#@testreqlogin,init)
     8. Hiện thông báo: I101":8,'Xin chào'" hoặc I101":8,'IOTA','Xin chào!'". Chú ý, đây là thông báo trực tiếp, 
     không phải inbox, sử dụng Inbox Api nếu muốn thông báo bằng Inbox
     
