@@ -20,7 +20,7 @@ Ví dụ:
 ```
 [Tùy chọn câu thoại](https://dev.iotabot.app/#@testreqlogin,init)
 
-[Mặc định](https://dev.iotabot.app/#@testreqlogin,init)
+[Mặc định](https://dev.iotabot.app/#@testreqlogindefault,init)
 ```
  8. Hiện thông báo: I101":8,'Xin chào'" hoặc I101":8,'IOTA','Xin chào!'". Chú ý, đây là thông báo trực tiếp, 
     không phải inbox, sử dụng Inbox Api nếu muốn thông báo bằng Inbox
