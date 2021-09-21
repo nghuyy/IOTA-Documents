@@ -37,7 +37,7 @@ I101":5,'Chú ý ico-balance-scale ','ico-award Bạn đã hoàn thành nhiệm 
 Chú ý, đây là thông báo trực tiếp, không phải inbox, sử dụng Inbox Api nếu muốn thông báo bằng Inbox
 I101":8,'Xin chào'" hoặc I101":8,'IOTA','Xin chào!'".
 ```
-[Thông báo](https://dev.vnapps.com/#@notify)
+[Thông báo](https://dev.iotabot.app/#@notify)
 
 Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số lệnh và ghi chú)     
 ```
