@@ -39,6 +39,10 @@ I101":8,'Xin chào'" hoặc I101":8,'IOTA','Xin chào!'".
 ```
 [Thông báo](https://dev.iotabot.app/#@notify)
 
+
+
+
+
 Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số lệnh và ghi chú)     
 ```
     SET_LOCAL_STORE: 1, // 1[Vị trí lưu],2[Nội dung] Lưu tạm dữ liệu trên trình duyệt, dữ liệu này là có thể bị sửa đổi và không bảo mật,
@@ -46,6 +50,7 @@ Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số
     READ_LOCAL_STORE: 2, //1[Vị trí lưu, có thể là số, hoặc chuỗi] Đọc local store
     DEl_LOCAL_STORE: 3, //1[Vị trí lưu, nếu bỏ trống tất cả sẽ bị xóa] Xóa dữ liệu đã ghi
     REQ_LOGIN: 4, //1[Nội dung thông báo], hiện hộp thoại yêu cầu đăng nhập
+    ALERT: 5, //1[Tiêu đề], 2[Nội dung thông báo], hiện 1 cửa sổ thông báo để người dùng chú ý
     NOTIFY: 8 //1[Nội dung] hoặc 1[Tiêu đề],2[Nội dung] Hiện thông báo
 ```
 Khác:
