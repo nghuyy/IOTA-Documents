@@ -43,7 +43,7 @@ I101":8,'Xin chào'" hoặc I101":8,'IOTA','Xin chào!'".
 
 
 
-Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số lệnh và ghi chú)     
+### Chi tiết lệnh(Bỏ qua phần mã khóa ở đầu, chỉ quan tâm mã số lệnh và ghi chú)     
 ```
     SET_LOCAL_STORE: 1, // 1[Vị trí lưu],2[Nội dung] Lưu tạm dữ liệu trên trình duyệt, dữ liệu này là có thể bị sửa đổi và không bảo mật,
     // tuy nhiên không bị mất cho đến khi người dùng xóa thủ công
