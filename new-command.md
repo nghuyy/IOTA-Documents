@@ -19,6 +19,7 @@ Ví dụ:
  hiển thị hộp thoại yêu cầu đăng nhập với câu thông báo. Hoặc mặc định I101":4"
 ```
 [Tùy chọn câu thoại](https://dev.iotabot.app/#@testreqlogin,init)
+
 [Mặc định](https://dev.iotabot.app/#@testreqlogin,init)
 ```
  8. Hiện thông báo: I101":8,'Xin chào'" hoặc I101":8,'IOTA','Xin chào!'". Chú ý, đây là thông báo trực tiếp, 
