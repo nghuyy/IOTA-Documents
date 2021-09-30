@@ -4,7 +4,7 @@
 ```text
     + Không hiển thị thông tin bắt đầu bằng : hệ thống sẽ xem đó là lệnh, sử dụng /:nội dung/ nếu muốn gởi chuỗi có dấu : bắt đầu
     + Giảm thiểu số lần gởi dữ liệu bằng cách gộp chung tất cả quy trình vào một lần gởi dữ liệu, chỉ cập nhật thông tin riêng lẻ khi cần thiết
-    + Mã icon xem ở đây: https://fontawesome.com/v5.15/icons?d=gallery&p=2&s=solid&m=free
+    + Mã icon xem ở đây: https://fontawesome.com/icons?d=gallery&p=2
 ```
 
 + Toolbar:
