@@ -18,3 +18,6 @@
  ```
    I101"[-color: #ffc107;font-size: 80px;background-color: red;margin-left: 150px; /]Text Red[/-]"
  ```
+ 
+ Ví dụ:
+ https://dev.iotabot.app/#@MessageCode
