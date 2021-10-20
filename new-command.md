@@ -32,6 +32,11 @@ I101":5,'Chú ý ico-balance-scale ','ico-award Bạn đã hoàn thành nhiệm 
 ```
 [Xem](https://dev.iotabot.app/#@focusalert)
 
+6. Mở địa chỉ web trên cữa sổ popup:
+```
+I101":6,'https://google.vn'"
+```
+
 8. Hiện thông báo hệ thống: 
 ```
 Chú ý, đây là thông báo trực tiếp, không phải inbox, sử dụng Inbox Api nếu muốn thông báo bằng Inbox
