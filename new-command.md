@@ -36,6 +36,7 @@ I101":5,'Chú ý ico-balance-scale ','ico-award Bạn đã hoàn thành nhiệm 
 ```
 I101":6,'https://google.vn'"
 ```
+[Xem](https://dev.iotabot.app/#@popup)
 
 8. Hiện thông báo hệ thống: 
 ```
