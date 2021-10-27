@@ -38,6 +38,11 @@ I101":6,'https://google.vn'"
 ```
 [Xem](https://iotabot.app/#@popup)
 
+7. Đọc tên người dùng
+
+I101":7"
+
+
 8. Hiện thông báo hệ thống: 
 ```
 Chú ý, đây là thông báo trực tiếp, không phải inbox, sử dụng Inbox Api nếu muốn thông báo bằng Inbox
@@ -45,7 +50,12 @@ I101":8,'Xin chào'" hoặc I101":8,'IOTA','Xin chào!'".
 ```
 [Thông báo](https://dev.iotabot.app/#@notify)
 
-
+9. Đặt hình nền
+I101":9,'Địa chỉ ảnh',0" 
+với 0 Mặc định
+1 - chính giữa phía trên
+2 - chính giữa phía dưới
+3 - tự giãn theo màn hình
 
 
 
