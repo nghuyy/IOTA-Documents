@@ -38,7 +38,7 @@ I101":6,'https://google.vn'"
 ```
 [Xem](https://iotabot.app/#@popup)
 
-7. Đọc tên người dùng
+(VTIO)7. Đọc tên người dùng
 
 I101":7"
 
@@ -57,7 +57,11 @@ với 0 Mặc định
 2 - chính giữa phía dưới
 3 - tự giãn theo màn hình
 
-
+10. Hộp thoại với sự kiện trả về:
+```
+ I101":7,'Xin chào','Bấm tiếp tục đây để xác nhận','Tiếp tục','okiela_1234'
+```
+Sẽ nhận được sự kiện okiela_1234 khi người dùng bấm tiếp tục
 
 Khác:
 ```
