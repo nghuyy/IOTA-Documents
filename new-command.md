@@ -59,7 +59,7 @@ với 0 Mặc định
 
 10. Hộp thoại với sự kiện trả về:
 ```
- I101":7,'Xin chào','Bấm tiếp tục đây để xác nhận','Tiếp tục','okiela_1234'
+ I101":10,'Xin chào','Bấm tiếp tục đây để xác nhận','Tiếp tục','okiela_1234'
 ```
 Sẽ nhận được sự kiện okiela_1234 khi người dùng bấm tiếp tục
 
